@@ -7,22 +7,22 @@
 
 
 
-##  📊 HR Analytics Dashboard
+##  📊 Coffee-Shop-Sale Dashboard
 
 
 
 ## 🛠️ Tech Stack Used:
 
 
-## 🌟 Features / Highlights of the HR Analytics Dashboard - 
+## 🌟 Features 
 
 
 
-## 💼 Business Impacts -
+## 💼 Business Impacts
 
-##  🔍 Key Insights Uncovered:
+##  🔍 Key Insights Uncovered
 
 
-## ❓ Key Business Questions:-
+## ❓ Key Business Questions
  
 ## 🎯 Goal of the Dashboard
