@@ -61,7 +61,7 @@ This dataset enables granular analysis of sales trends, customer behavior, and p
 - What is the average price/order per person?
 - Which products are the best selling in terms of quantity and revenue?
 - How do sales vary by product category and type ?
-- - Dashboard Interaction <a href="https://github.com/divyank03/Coffee-Shop-Sales-Analysis-using-Microsoft-Excel/blob/main/Coffee%20Shop%20Sales%20Analytics%20Dashboard%20-%20Screenshot.png"> View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/divyank03/Coffee-Shop-Sales-Analysis-using-Microsoft-Excel/blob/main/Coffee%20Shop%20Sales%20Analytics%20Dashboard%20-%20Screenshot.png"> View Dashboard </a>
 
 ## 🎯 Goal of the Dashboard
 The goal of this dashboard is to provide a comprehensive, real-time overview of the coffee shop’s sales performance across products, time periods, and locations. It empowers stakeholders to quickly identify trends, peak sales times, and high-performing products, enabling data-driven decisions to optimize operations, marketing, and inventory management.
