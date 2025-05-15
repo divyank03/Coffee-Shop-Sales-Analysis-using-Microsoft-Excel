@@ -11,7 +11,7 @@ The coffee shop chain lacks detailed visibility into its sales performance acros
 - Improve marketing and promotional strategies
 This lack of insight hinders data-driven decision-making and affects overall profitability and operational efficiency.
 
-## Dataset used
+## 📝 Dataset Used
 The dataset contains detailed transactional sales records from a coffee shop chain, including:
 - Transaction Details: Unique transaction ID, date, and time.
 - Store Information: Store ID and location.
