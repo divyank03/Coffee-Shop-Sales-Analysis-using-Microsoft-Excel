@@ -8,7 +8,8 @@
 
 
 ##  📊 Coffee-Shop-Sale Dashboard
-![Uploading Coffee Shop Sales Analytics Dashboard - Screenshot.png…]()
+![Coffee Shop Sales Analytics Dashboard - Screenshot](https://github.com/user-attachments/assets/057c82d5-3312-4910-aab8-cfdb91247773)
+
 
 
 
