@@ -11,6 +11,16 @@ The coffee shop chain lacks detailed visibility into its sales performance acros
 - Improve marketing and promotional strategies
 This lack of insight hinders data-driven decision-making and affects overall profitability and operational efficiency.
 
+## Dataset used
+The dataset contains detailed transactional sales records from a coffee shop chain, including:
+- Transaction Details: Unique transaction ID, date, and time.
+- Store Information: Store ID and location.
+- Product Information: Product ID, category, type, detail, and size.
+- Sales Data: Quantity sold, unit price, and total bill amount.
+- Time Attributes: Month, day of the week, hour, and other date-related fields
+This dataset enables granular analysis of sales trends, customer behavior, and product performance.
+<a href="https://github.com/divyank03/Coffee-Shop-Sales-Analysis-using-Microsoft-Excel/blob/main/Coffee%20Shop%20Sales.xlsx"> Dataset </a>
+
 ##  📊 Coffee-Shop-Sale Dashboard
 ![Coffee Shop Sales Analytics Dashboard - Screenshot](https://github.com/user-attachments/assets/057c82d5-3312-4910-aab8-cfdb91247773)
 
