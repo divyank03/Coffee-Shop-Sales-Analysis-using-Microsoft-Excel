@@ -1,6 +1,5 @@
 # Coffee-Shop-Sales-Analysis-using-Microsoft-Excel
 
-
 ## 🎯 Project Objective
 The main objective of this project is to analyze retail sales data to uncover actionable insights that improve the Coffee Shop’s performance by optimizing product offerings, identifying peak sales periods, and understanding customer purchasing behavior.
 
@@ -30,12 +29,29 @@ This lack of insight hinders data-driven decision-making and affects overall pro
 - KPI Cards and Filters : Displays key metrics like total revenue, number of transactions, and average bill value with dynamic slicers for drill-down.
 - Cleaned and Transformed Data : Uses Power Query to preprocess and structure raw transactional data.
 
-
 ## 💼 Business Impacts
+- Improved Decision-Making : Enabled data-driven strategies by providing clear insights into sales performance, customer behavior, and product trends.
+- Increased Revenue Opportunities : Identified top-performing products and peak sales periods, supporting targeted promotions and inventory planning.
+- Operational Efficiency : Helped optimize staffing and stock management by understanding demand patterns across time and location.
+- Enhanced Customer Experience : Informed product placement and offerings aligned with customer preferences and buying habits.
+- Cost Reduction : Reduced waste and overstocking by aligning supply with actual demand through data analysis.
 
 ##  🔍 Key Insights Uncovered
-
+- Peak Sales Periods: Highest transaction volumes occur during mid-morning and early afternoon hours, with weekends showing increased customer traffic.
+- Top-Selling Products: Certain product categories like brewed herbal teas and bakery items consistently generate the most revenue.
+- Store Performance Variability: Some store locations outperform others significantly, indicating opportunities for targeted marketing or operational adjustments.
+- Customer Preferences by Size: Larger-sized beverages tend to be more popular during colder months, while smaller sizes see higher sales in warmer periods.
+- Day of Week Trends: Sales peak on Thursdays and Fridays, suggesting potential for midweek promotions to balance demand.
 
 ## ❓ Key Business Questions
- 
+- How do sales vary by day of the week and hour of the day?
+- Are there any peak times for sales activity?
+- What is the total sales revenue for each month?
+- How do sales vary across different store locations?
+- What is the average price/order per person?
+- Which products are the best selling in terms of quantity and revenue?
+- How do sales vary by product category and type ?
+
 ## 🎯 Goal of the Dashboard
+The goal of this dashboard is to provide a comprehensive, real-time overview of the coffee shop’s sales performance across products, time periods, and locations. It empowers stakeholders to quickly identify trends, peak sales times, and high-performing products, enabling data-driven decisions to optimize operations, marketing, and inventory management.
+
